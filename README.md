@@ -32,7 +32,6 @@ It displays the current **time** and **date**, updating every second in real tim
    git clone https://github.com/Bhavani-MaliPatil/digitalclock.git
    cd digitalclock
 Run the Python file:
+
 python digitalclock.py
-   ```bash
-   git clone https://github.com/Bhavani-MaliPatil/digitalclock.git
-   cd digitalclock
+ 
