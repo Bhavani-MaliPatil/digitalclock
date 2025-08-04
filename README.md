@@ -34,7 +34,8 @@ Run the Python script:
 ```bash
    python digital_clock.py
 
-📌 Purpose
-This project was created to strengthen my understanding of Python GUI development and real-time event handling using tkinter.
+---
 
+📌 Purpose
+This project was created to strengthen my understanding of Python GUI development and real-time event handling using Tkinter.
 
