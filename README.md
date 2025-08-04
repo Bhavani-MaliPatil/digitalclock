@@ -31,10 +31,11 @@ It displays the current **time** and **date**, updating every second in real tim
    ```bash
    git clone https://github.com/Bhavani-MaliPatil/digitalclock.git
    cd digitalclock
-Run the Python script:
 
-bash
-python digital_clock.py
+3. Run the Python script:
+   ```bash
+   python digital_clock.py
+
 
 📌 Purpose
 This project was created to strengthen my understanding of GUI development and time-based event handling in Python.
