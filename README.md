@@ -34,7 +34,8 @@ It displays the current **time** and **date**, updating every second in real tim
 Run the Python script:
 
 bash
-Copy
-Edit
 python digital_clock.py
+
+📌 Purpose
+This project was created to strengthen my understanding of GUI development and time-based event handling in Python.
  
