@@ -1,14 +1,13 @@
-# 🕒 Digital Clock with Date (Python + Tkinter)
+# 🕒 Digital Clock (Python + Tkinter)
 
-This is a simple digital clock application built using **Python** and **Tkinter**.  
-It displays the current **time** and **date**, updating every second in real time.
+This is a simple **digital clock application** built using **Python** and **Tkinter**.  
+It displays the current **time** in real-time and updates every second.
 
 ---
 
 ## 💡 Features
 
 - ⏰ Live time in 12-hour format with AM/PM
-- 📅 Displays full date (e.g., Monday, 04 August 2025)
 - 🖥️ Clean graphical interface with large, readable fonts
 - 🎨 Styled with a dark theme using cyan text
 
@@ -18,7 +17,7 @@ It displays the current **time** and **date**, updating every second in real tim
 
 - Python 3
 - Tkinter (Python’s standard GUI library)
-- `time.strftime()` for time and date formatting
+- `time.strftime()` for time formatting
 
 ---
 
@@ -31,12 +30,13 @@ It displays the current **time** and **date**, updating every second in real tim
    ```bash
    git clone https://github.com/Bhavani-MaliPatil/digitalclock.git
    cd digitalclock
-
-3. Run the Python script:
-   ```bash
+Run the Python script:
+```bash
    python digital_clock.py
 
-
 📌 Purpose
-This project was created to strengthen my understanding of GUI development and time-based event handling in Python.
- 
+This project was created to strengthen my understanding of Python GUI development and real-time event handling using tkinter.
+
+
+   git clone https://github.com/Bhavani-MaliPatil/digitalclock.git
+   cd digitalclock
