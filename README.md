@@ -38,5 +38,3 @@ Run the Python script:
 This project was created to strengthen my understanding of Python GUI development and real-time event handling using tkinter.
 
 
-   git clone https://github.com/Bhavani-MaliPatil/digitalclock.git
-   cd digitalclock
